@@ -1,0 +1,3 @@
+export const GET_INFO_API = 'GET_INFO_API';
+export const LOADING_INFO_API = 'LOADING_INFO_API';
+export const ERROR_INFO_API = 'ERROR_INFO_API';
